@@ -1,6 +1,5 @@
 # 内容：自定义
 # 域名关键字匹配
-rules:
 DOMAIN-KEYWORD,ugreen,DIRECT
 DOMAIN-KEYWORD,ugnas,DIRECT
 DOMAIN-SUFFIX,ug.link,DIRECT
